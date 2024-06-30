@@ -1,5 +1,6 @@
-##　Terminal Tricks
-Ctrl + a : move to the beginning of line.
+#### Terminal Tricks
+
+Ctrl + a : move to the beginning of line.  
 Ctrl + e : move to the end of line.
 Ctrl + k : delete all text from the cursor to the end of line.
 Ctrl + n : same as Down arrow.
