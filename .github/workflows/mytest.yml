@@ -41,3 +41,4 @@ jobs:
     steps:
       - uses: erkenes/php-cs-fixer-action@php8.3-1.0.0
       - name: hogehoge
+        run: echo ok
